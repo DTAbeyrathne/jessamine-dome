@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Ky Level IV Ecoregions</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Ecoregions denote areas of general similarity in ecosystems and in the type,  quality, and quantity of environmental resources. They are designed to serve as a  spatial framework for the research, assessment, management, and monitoring of  ecosystems and ecosystem components. By recognizing the spatial differences in  the capacities and potentials of ecosystems, ecoregions stratify the environment  by its probable response to disturbance (Bryce and others, 1999). Ecoregions are  general purpose regions that are critical for structuring and implementing  ecosystem management strategies across federal agencies, state agencies, and  nongovernment organizations that are responsible for different types of resources  in the same geographical areas (Omernik and others, 2000).</abstract>
+            <purpose>Ecoregions denote areas of general similarity in ecosystems and in the type,  quality, and quantity of environmental resources. They are designed to serve as a  spatial framework for the research, assessment, management, and monitoring of  ecosystems and ecosystem components. By recognizing the spatial differences in  the capacities and potentials of ecosystems, ecoregions stratify the environment  by its probable response to disturbance (Bryce and others, 1999). Ecoregions are  general purpose regions that are critical for structuring and implementing  ecosystem management strategies across federal agencies, state agencies, and  nongovernment organizations that are responsible for different types of resources  in the same geographical areas (Omernik and others, 2000).
+</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>boundaries</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>ecoregion</themekey>
+                <themekey>boundaries</themekey>
+                <themekey>level iv</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>None</useconst>
+        <datacred>DGI, USGS</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20210225</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
